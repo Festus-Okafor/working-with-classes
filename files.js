@@ -1,4 +1,4 @@
-/*  //part 1. playing around with classes
+  //part 1. playing around with classes
  class Cat {
   constructor(age, color, sex) { //the parameters here serves as placeholder for the features of the about to be created instances
     this.age = age;
@@ -104,7 +104,7 @@ console.log(`........................................................`)
 
       // morning code problems.... dealing with classes
 
- */
+ 
 
 class Hamster {
   constructor(owner, name, price) {
